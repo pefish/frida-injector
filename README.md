@@ -9,3 +9,4 @@ Injecting Javascript into a process.
 ## Binaries
 
 Get them at: https://github.com/pefish/frida-injector/releases
+
