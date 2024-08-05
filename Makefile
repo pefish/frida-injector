@@ -1,5 +1,5 @@
 
-name = $(shell cat wails.json | jq '.info.productName')
+name = "Frida Injector"
 
 mac-arm64:
 	wails build -clean -platform darwin/arm64
